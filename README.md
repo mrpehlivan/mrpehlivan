@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Arif PEHLİVAN 👋</h1>
 
-<!--
-**mrpehlivan/mrpehlivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Senior Software Engineer · Hamburg, Germany 🇩🇪</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👨‍💻 Passionate software developer with **10+ years of experience**
+- ☕ Love building robust backend systems with **Java & Spring Boot**
+- 🌱 Always exploring new technologies and best practices
+- 🌐 [arifpehlivan.com](https://www.arifpehlivan.com/)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,nodejs,ts,vue,react,postgres,mongodb,dynamodb,elasticsearch,aws,docker,terraform,auth0" />
+</p>
